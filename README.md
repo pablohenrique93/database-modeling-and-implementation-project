@@ -24,3 +24,5 @@
 - Exibir uma lista dos produtos que foram comprados pelo cliente "Benedito Henry Teixeira", bem como seu nome e endereço completo.
 - Exibir a quantidade de clientes que são do estado do CE.
 - Exibir a soma dos estoques de todas as bebidas do estabelecimento.
+
+![modelo_mercado_editado](https://github.com/pablohenrique93/projeto-modelagem-implementacao-de-banco-de-dados/assets/122938850/8d3e736a-2404-412f-ac24-089a96a4ef71)
